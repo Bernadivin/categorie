@@ -15,11 +15,7 @@
 
 {"descriptions":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","source":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4333"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titles":"NOLLY AFRICA 2"},
 
-{"descriptions":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titles":"NOVELAS TV"}
-
-]}]}
-
-
+{"descriptions":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titles":"NOVELAS TV"},
 
 {"descriptions":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","source":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titles":"AFRO MAGIC CHANNEL"},
 
@@ -33,7 +29,13 @@
 
 {"descriptions":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","source":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titles":"CINEMA HAUSA"},
 
-{"descriptions":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","source":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titles":"BONGO TV"},
+{"descriptions":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","source":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titles":"BONGO TV"}
+
+]}]}
+
+
+
+
 
 {"descriptions":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titles":"AFRICAWOOD BLOCKBUSTER"},
 
