@@ -47,7 +47,7 @@
 
 {"descriptions":"NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTQ2MDgzNDJf/novelaturcas.jpeg","titles":"NOVELAS TURCAS"},
 
-{"descriptionNovela":"Novelas TV 6 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"],"subtitles":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg","titleNovela":"NOVELAS TV 3"},
+{"descriptions":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg","titles":"NOVELAS TV 3"},
 
 {"descriptions":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","source":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titles":"AFROLAND TV"},
 
