@@ -7,7 +7,7 @@
 
 {"descriptions":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
-{"descriptions":"Vix Parejas Novelas TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","source":["https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5Nzg4NDJf/vixvisa.jpg","titles":"VIX PAREJAS NOVELAS"}]}]}
+{"descriptions":"Vix Parejas Novelas TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","source":["https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5Nzg4NDJf/vixvisa.jpg","titles":"VIX PAREJAS NOVELAS"},
 
 {"descriptions":"Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.","source":["https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg","titles":"TELEVISA TV"},
 
@@ -15,7 +15,11 @@
 
 {"descriptions":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","source":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4333"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titles":"NOLLY AFRICA 2"},
 
-{"descriptions":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titles":"NOVELAS TV"},
+{"descriptions":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titles":"NOVELAS TV"}
+
+]}]}
+
+
 
 {"descriptions":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","source":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titles":"AFRO MAGIC CHANNEL"},
 
