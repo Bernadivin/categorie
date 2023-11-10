@@ -7,7 +7,7 @@
 
 {"descriptions":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
-{"descriptions":"Vix Parejas Novelas TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","source":["https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5Nzg4NDJf/vixvisa.jpg","titles":"VIX PAREJAS NOVELAS"},
+{"descriptions":"Vix Parejas Novelas TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","source":["https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5Nzg4NDJf/vixvisa.jpg","titles":"VIX PAREJAS NOVELAS"}]}]}
 
 {"descriptions":"Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.","source":["https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg","titles":"TELEVISA TV"},
 
@@ -95,4 +95,4 @@
 
 {"descriptions":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","source":["http://212.102.60.80/France3/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titles":"FRANCE 3"},
 
-{"descriptions":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","source":["http://45.159.74.13/DisneyChannel/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titles":"CT KIDS"}]}]}
+{"descriptions":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","source":["http://45.159.74.13/DisneyChannel/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titles":"CT KIDS"}
