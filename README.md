@@ -1,5 +1,6 @@
 # categorie
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"Bero Generaliste TV est la premiere chaine numerique de la diasporas qui vous tienne compagnie de divers programmes tels que musiques, religion, gospel, infos, series etec....","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO GENERALISTE"},
+{"categorie":[{"names":"Movie","videos":[{"descriptions":"Bero Generaliste TV est la premiere chaine numerique de la diasporas qui vous tienne compagnie de divers programmes tels que musiques, religion, gospel, infos, series etec....","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO GENERALISTE"}]}]}
+
 
 {"descriptions":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","source":["http://69.64.57.208/atv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titles":"A+ IVOIRE"},
 
@@ -29,7 +30,7 @@
 
 {"descriptions":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","source":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titles":"CINEMA HAUSA"},
 
-{"descriptions":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","source":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titles":"BONGO TV"}]}]}
+{"descriptions":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","source":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titles":"BONGO TV"}
 
 
 
